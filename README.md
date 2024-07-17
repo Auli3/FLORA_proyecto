@@ -229,6 +229,9 @@ From the “Developer Center”
 
 ## Looker Studio
 Using Looker Studio you can keep updated information from Google Sheets.
+
+![looker_tablero](https://github.com/user-attachments/assets/1f1f4411-a5c0-4b65-9dee-7a002d4dfd54)
+
 The dashboard will re-read data from Google Sheets every 15 minutes.
 
 ### Google Sheets Connection
